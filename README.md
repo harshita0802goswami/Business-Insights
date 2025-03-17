@@ -4,6 +4,11 @@ Power BI project developed for AtliQ Hardware, providing comprehensive business 
 ## Challenges and Objectives
 AtliQ Hardware faced challenges in consolidating and analyzing data from diverse sources, which impeded their ability to make informed business decisions. The objective was to develop an interactive report that provided key insights across various business functions, including finance, sales, marketing, supply chain, and executive teams.
 
+🔗 **Links:**  
+- [Challenge Details](#)  
+- [Interactive Dashboard](#)  
+- [Presentation Video](#)
+
 ## Techniques and Skills Acquired
 - **Data Import and Transformation:** Efficiently handled using **Power Query**.  
 - **Data Modeling:** Structured for **optimal performance** and **analysis**.  
@@ -15,11 +20,6 @@ AtliQ Hardware faced challenges in consolidating and analyzing data from diverse
   - **Conditional Formatting:** Enhancing visual appeal.  
   - **Bookmarks & Selection:** Creating a dynamic and interactive experience.  
   - **Report Publishing:** Using **Power BI Services**.  
-
-🔗 **Links:**  
-- [Challenge Details](#)  
-- [Interactive Dashboard](#)  
-- [Presentation Video](#)  
 
 ## Dashboard Views Created
 - **Finance View: Designed a dynamic P&L table with slicers for flexible data filtering.**
