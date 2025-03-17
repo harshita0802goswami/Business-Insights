@@ -27,3 +27,5 @@ AtliQ Hardware faced challenges in consolidating and analyzing data from diverse
 - **Marketing View: Focused on product-based performance.**
 - **Supply Chain View: Monitored inventory forecasts and net error.**
 - **Executive View: Provided a consolidated strategic overview.**
+
+![image](https://github.com/user-attachments/assets/2f80c86c-21bc-442e-b1c1-2188fa1cd65f)
