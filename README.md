@@ -5,8 +5,7 @@ Power BI project developed for AtliQ Hardware, providing comprehensive business 
 AtliQ Hardware faced challenges in consolidating and analyzing data from diverse sources, which impeded their ability to make informed business decisions. The objective was to develop an interactive report that provided key insights across various business functions, including finance, sales, marketing, supply chain, and executive teams.
 
 🔗 **Links:**  
-- [Challenge Details](#)  
-- [Interactive Dashboard](#)  
+- [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTViNjE5YzQtMDAyNC00YWU5LThhNzItYjUyMGRlNGJlMGM1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
 
 ## Techniques and Skills Acquired
 - **Data Import and Transformation:** Efficiently handled using **Power Query**.  
