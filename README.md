@@ -7,7 +7,6 @@ AtliQ Hardware faced challenges in consolidating and analyzing data from diverse
 🔗 **Links:**  
 - [Challenge Details](#)  
 - [Interactive Dashboard](#)  
-- [Presentation Video](#)
 
 ## Techniques and Skills Acquired
 - **Data Import and Transformation:** Efficiently handled using **Power Query**.  
